@@ -26,7 +26,7 @@ Articles
                 </table>
                 <ul class="actions">
                         <li><a href="{{url()->previous()}}" class="button">Back</a></li>
-                    </ul>
+                </ul>
             </div>
 
         </div>
